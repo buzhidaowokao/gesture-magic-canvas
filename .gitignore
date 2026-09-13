@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 用户保存的画作（可能包含摄像头拍摄的个人画面，不入库）
+saves/*
+!saves/.gitkeep
+
+# 临时与系统文件
+smoke_preview.png
+Thumbs.db
+.DS_Store

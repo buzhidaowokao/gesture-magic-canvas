@@ -1,0 +1,5 @@
+# 《手势魔法画板》依赖清单
+# 安装命令：pip install -r requirements.txt
+mediapipe>=0.10.9
+opencv-python>=4.8.0
+numpy
